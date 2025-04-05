@@ -1,0 +1,10 @@
+{
+    "realm": "master",
+    "auth-server-url": "http://localhost:8080",
+    "ssl-required": "none",
+    "resource": "node-app",
+    "credentials": {
+        "secret": "mZsb4SrcQPVHfY6VSaREuXkKIqNgHFID"
+    },
+    "confidential-port": 0
+}
